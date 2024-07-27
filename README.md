@@ -23,7 +23,7 @@
 
   ![eaglevs](https://github.com/user-attachments/assets/47a52116-555b-4205-8ff3-396e56ae927a)<img src="https://github.com/user-attachments/assets/47a52116-555b-4205-8ff3-396e56ae927a" width="100" height="100"/>
   
-![components eagle v](https://github.com/user-attachments/assets/1f12dbbb-9b66-407b-a562-b276b0e50eb6)
+![components eagle v](https://github.com/user-attachments/assets/1f12dbbb-9b66-407b-a562-b276b0e50eb6 | width = 100)
 
  
    
