@@ -19,15 +19,12 @@
 - 1x Bread Board
 - 10x Jumper Cable
 
-![curiosity - Wokwi ESP32, STM32, Arduino Simulator - Google Chrome 27_07_2024 14_24_46](https://github.com/user-attachments/assets/63011c01-2964-4f96-baae-27e25704bb89)![eaglevs](https://github.com/user-attachments/assets/9d55133a-5e65-4703-97dc-a56d9f86daf6)
-![components eagle v](https://github.com/user-attachments/assets/ffec5235-ec57-41d7-a461-a03433e96bdf)
+![curiosity - Wokwi ESP32, STM32, Arduino Simulator - Google Chrome 27_07_2024 14_24_46](https://github.com/user-attachments/assets/63011c01-2964-4f96-baae-27e25704bb89)
 
-![components eagle v](https://github.com/user-attachments/assets/63d1a03a-0070-4611-94ad-b9e06a27021d)
-
-![eaglevs](https://github.com/user-attachments/assets/258e3c83-c9a2-46bc-8285-98a5122bfde6)
-
-
+  ![eaglevs](https://github.com/user-attachments/assets/47a52116-555b-4205-8ff3-396e56ae927a)
   
+![components eagle v](https://github.com/user-attachments/assets/1f12dbbb-9b66-407b-a562-b276b0e50eb6)
+
  
    
 
