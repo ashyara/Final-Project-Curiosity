@@ -1,5 +1,5 @@
 # EAGLE VISION
-![LOGO SIC](https://github.com/user-attachments/assets/41dbdc34-f64b-40e5-a9dc-d006c0cd8dcc)
+![LOGO SIC](https://github.com/user-attachments/assets/41dbdc34-f64b-40e5-a9dc-d006c0cd8dcc | width = 300)
  ## Overview
  - **Eagle Vision** adalah alat pengabsenan siswa di kelas yang dikembangkan oleh team Curiosity dalam Bootcamp SIC Batch 5 yang diadakan oleh samsung dan skilvul. Eagle Vision dapat mendeteksi dan melakukan pengabsenan siswa dikelas.
  
