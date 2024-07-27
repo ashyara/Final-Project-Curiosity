@@ -21,7 +21,7 @@
 
 ![curiosity - Wokwi ESP32, STM32, Arduino Simulator - Google Chrome 27_07_2024 14_24_46](https://github.com/user-attachments/assets/63011c01-2964-4f96-baae-27e25704bb89)
 
-  ![eaglevs](https://github.com/user-attachments/assets/47a52116-555b-4205-8ff3-396e56ae927a)
+  ![eaglevs](https://github.com/user-attachments/assets/47a52116-555b-4205-8ff3-396e56ae927a)<img src="https://github.com/user-attachments/assets/47a52116-555b-4205-8ff3-396e56ae927a" width="100" height="100">
   
 ![components eagle v](https://github.com/user-attachments/assets/1f12dbbb-9b66-407b-a562-b276b0e50eb6)
 
