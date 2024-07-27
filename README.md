@@ -19,7 +19,7 @@
 - 1x Bread Board
 - 10x Jumper Cable
 
-<img src = "https://github.com/user-attachments/assets/63011c01-2964-4f96-baae-27e25704bb89" witdh = "300"/>
+<img src = "https://github.com/user-attachments/assets/63011c01-2964-4f96-baae-27e25704bb89" witdh = "300" align = "center"/>
 
 <img src="https://github.com/user-attachments/assets/47a52116-555b-4205-8ff3-396e56ae927a" width="300"/>
   
